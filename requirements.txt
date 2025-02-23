@@ -34,9 +34,9 @@ jsonpatch==1.33
 jsonpointer==2.4
 jsonschema==4.20.0
 jsonschema-specifications==2023.11.2
-langchain==0.1.9
-langchain-community==0.0.24
-langchain-core==0.1.26
+langchain==0.0.349
+langchain-core==0.1.27
+langchain-community==0.0.28
 langchain-openai==0.0.7
 langsmith==0.1.6
 lxml==4.9.3
