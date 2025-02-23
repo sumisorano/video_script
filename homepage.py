@@ -40,4 +40,4 @@ def generate_script(subject, video_length, creativity, user_api_key):
     return search_result, title, script
 
 
-print(generate_script("deepseek模型", 1, 0.7, os.environ["OPENAI_API_KEY"]))
+# print(generate_script("deepseek模型", 1, 0.7, os.environ["OPENAI_API_KEY"]))
